@@ -20,8 +20,13 @@ section {
 .card {
     height: 100%;
 }
-body{
+body {  
     background: linear-gradient(45deg, #ff7e5f, #feb47b, #86a8e7, #7f7fd5);
 }
+.navbar {
+    background:#1a1a40;
+        padding: 15px;
+ }
+      
 
         
