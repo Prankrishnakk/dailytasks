@@ -1,0 +1,37 @@
+C:\Users\HP ELITEBOOK 845\Desktop\dotnet\.net core\WebApplication1\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\HP ELITEBOOK 845\Desktop\dotnet\.net core\WebApplication1\WebApplication1\bin\Debug\net8.0\appsettings.json
+C:\Users\HP ELITEBOOK 845\Desktop\dotnet\.net core\WebApplication1\WebApplication1\bin\Debug\net8.0\try Catch.staticwebassets.endpoints.json
+C:\Users\HP ELITEBOOK 845\Desktop\dotnet\.net core\WebApplication1\WebApplication1\bin\Debug\net8.0\try Catch.exe
+C:\Users\HP ELITEBOOK 845\Desktop\dotnet\.net core\WebApplication1\WebApplication1\bin\Debug\net8.0\try Catch.deps.json
+C:\Users\HP ELITEBOOK 845\Desktop\dotnet\.net core\WebApplication1\WebApplication1\bin\Debug\net8.0\try Catch.runtimeconfig.json
+C:\Users\HP ELITEBOOK 845\Desktop\dotnet\.net core\WebApplication1\WebApplication1\bin\Debug\net8.0\try Catch.dll
+C:\Users\HP ELITEBOOK 845\Desktop\dotnet\.net core\WebApplication1\WebApplication1\bin\Debug\net8.0\try Catch.pdb
+C:\Users\HP ELITEBOOK 845\Desktop\dotnet\.net core\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\HP ELITEBOOK 845\Desktop\dotnet\.net core\WebApplication1\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP ELITEBOOK 845\Desktop\dotnet\.net core\WebApplication1\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP ELITEBOOK 845\Desktop\dotnet\.net core\WebApplication1\WebApplication1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP ELITEBOOK 845\Desktop\dotnet\.net core\WebApplication1\WebApplication1\obj\Debug\net8.0\try Catch.csproj.AssemblyReference.cache
+C:\Users\HP ELITEBOOK 845\Desktop\dotnet\.net core\WebApplication1\WebApplication1\obj\Debug\net8.0\try Catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP ELITEBOOK 845\Desktop\dotnet\.net core\WebApplication1\WebApplication1\obj\Debug\net8.0\try Catch.AssemblyInfoInputs.cache
+C:\Users\HP ELITEBOOK 845\Desktop\dotnet\.net core\WebApplication1\WebApplication1\obj\Debug\net8.0\try Catch.AssemblyInfo.cs
+C:\Users\HP ELITEBOOK 845\Desktop\dotnet\.net core\WebApplication1\WebApplication1\obj\Debug\net8.0\try Catch.csproj.CoreCompileInputs.cache
+C:\Users\HP ELITEBOOK 845\Desktop\dotnet\.net core\WebApplication1\WebApplication1\obj\Debug\net8.0\try Catch.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP ELITEBOOK 845\Desktop\dotnet\.net core\WebApplication1\WebApplication1\obj\Debug\net8.0\try Catch.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP ELITEBOOK 845\Desktop\dotnet\.net core\WebApplication1\WebApplication1\obj\Debug\net8.0\try Catch.sourcelink.json
+C:\Users\HP ELITEBOOK 845\Desktop\dotnet\.net core\WebApplication1\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\try Catch.styles.css
+C:\Users\HP ELITEBOOK 845\Desktop\dotnet\.net core\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\HP ELITEBOOK 845\Desktop\dotnet\.net core\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\HP ELITEBOOK 845\Desktop\dotnet\.net core\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\HP ELITEBOOK 845\Desktop\dotnet\.net core\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.try Catch.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP ELITEBOOK 845\Desktop\dotnet\.net core\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.try Catch.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\HP ELITEBOOK 845\Desktop\dotnet\.net core\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.try Catch.props
+C:\Users\HP ELITEBOOK 845\Desktop\dotnet\.net core\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.try Catch.props
+C:\Users\HP ELITEBOOK 845\Desktop\dotnet\.net core\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.try Catch.props
+C:\Users\HP ELITEBOOK 845\Desktop\dotnet\.net core\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\HP ELITEBOOK 845\Desktop\dotnet\.net core\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\HP ELITEBOOK 845\Desktop\dotnet\.net core\WebApplication1\WebApplication1\obj\Debug\net8.0\try Catch.csproj.Up2Date
+C:\Users\HP ELITEBOOK 845\Desktop\dotnet\.net core\WebApplication1\WebApplication1\obj\Debug\net8.0\try Catch.dll
+C:\Users\HP ELITEBOOK 845\Desktop\dotnet\.net core\WebApplication1\WebApplication1\obj\Debug\net8.0\refint\try Catch.dll
+C:\Users\HP ELITEBOOK 845\Desktop\dotnet\.net core\WebApplication1\WebApplication1\obj\Debug\net8.0\try Catch.pdb
+C:\Users\HP ELITEBOOK 845\Desktop\dotnet\.net core\WebApplication1\WebApplication1\obj\Debug\net8.0\try Catch.genruntimeconfig.cache
+C:\Users\HP ELITEBOOK 845\Desktop\dotnet\.net core\WebApplication1\WebApplication1\obj\Debug\net8.0\ref\try Catch.dll
