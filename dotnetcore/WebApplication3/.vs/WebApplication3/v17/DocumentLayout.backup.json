@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP ELITEBOOK 845\\Desktop\\dotnet\\.net core\\WebApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CC852-6689-4922-ACDB-3F80BC47A67C}|WebApplication3\\WebApplication3.csproj|c:\\users\\hp elitebook 845\\desktop\\dotnet\\.net core\\webapplication3\\webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CC852-6689-4922-ACDB-3F80BC47A67C}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CC852-6689-4922-ACDB-3F80BC47A67C}|WebApplication3\\WebApplication3.csproj|c:\\users\\hp elitebook 845\\desktop\\dotnet\\.net core\\webapplication3\\webapplication3\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CC852-6689-4922-ACDB-3F80BC47A67C}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CC852-6689-4922-ACDB-3F80BC47A67C}|WebApplication3\\WebApplication3.csproj|c:\\users\\hp elitebook 845\\desktop\\dotnet\\.net core\\webapplication3\\webapplication3\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CC852-6689-4922-ACDB-3F80BC47A67C}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CC852-6689-4922-ACDB-3F80BC47A67C}|WebApplication3\\WebApplication3.csproj|c:\\users\\hp elitebook 845\\desktop\\dotnet\\.net core\\webapplication3\\webapplication3\\service\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CC852-6689-4922-ACDB-3F80BC47A67C}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\service\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CC852-6689-4922-ACDB-3F80BC47A67C}|WebApplication3\\WebApplication3.csproj|c:\\users\\hp elitebook 845\\desktop\\dotnet\\.net core\\webapplication3\\webapplication3\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C14CC852-6689-4922-ACDB-3F80BC47A67C}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C14CC852-6689-4922-ACDB-3F80BC47A67C}|WebApplication3\\WebApplication3.csproj|c:\\users\\hp elitebook 845\\desktop\\dotnet\\.net core\\webapplication3\\webapplication3\\webapplication3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C14CC852-6689-4922-ACDB-3F80BC47A67C}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\webapplication3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK 845\\Desktop\\dotnet\\.net core\\WebApplication3\\WebApplication3\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Program.cs",
+              "ToolTip": "C:\\Users\\HP ELITEBOOK 845\\Desktop\\dotnet\\.net core\\WebApplication3\\WebApplication3\\Program.cs",
+              "RelativeToolTip": "WebApplication3\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAtwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T10:12:41.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK 845\\Desktop\\dotnet\\.net core\\WebApplication3\\WebApplication3\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\HP ELITEBOOK 845\\Desktop\\dotnet\\.net core\\WebApplication3\\WebApplication3\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAuwD8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T09:35:29.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK 845\\Desktop\\dotnet\\.net core\\WebApplication3\\WebApplication3\\Service\\StudentService.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Service\\StudentService.cs",
+              "ToolTip": "C:\\Users\\HP ELITEBOOK 845\\Desktop\\dotnet\\.net core\\WebApplication3\\WebApplication3\\Service\\StudentService.cs",
+              "RelativeToolTip": "WebApplication3\\Service\\StudentService.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwDQAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T09:02:03.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK 845\\Desktop\\dotnet\\.net core\\WebApplication3\\WebApplication3\\Service\\IStudentService.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Service\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\HP ELITEBOOK 845\\Desktop\\dotnet\\.net core\\WebApplication3\\WebApplication3\\Service\\IStudentService.cs",
+              "RelativeToolTip": "WebApplication3\\Service\\IStudentService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T09:01:28.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK 845\\Desktop\\dotnet\\.net core\\WebApplication3\\WebApplication3\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Model\\Student.cs",
+              "ToolTip": "C:\\Users\\HP ELITEBOOK 845\\Desktop\\dotnet\\.net core\\WebApplication3\\WebApplication3\\Model\\Student.cs",
+              "RelativeToolTip": "WebApplication3\\Model\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T08:59:28.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebApplication3",
+              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK 845\\Desktop\\dotnet\\.net core\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
+              "RelativeDocumentMoniker": "WebApplication3\\WebApplication3.csproj",
+              "ToolTip": "C:\\Users\\HP ELITEBOOK 845\\Desktop\\dotnet\\.net core\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
+              "RelativeToolTip": "WebApplication3\\WebApplication3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-29T08:58:13.064Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

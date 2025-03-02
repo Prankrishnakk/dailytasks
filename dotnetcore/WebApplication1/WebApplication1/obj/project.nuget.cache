@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/7M8NrKKoUU=",
+  "dgSpecHash": "Jiq1Go3+M9Q=",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP ELITEBOOK 845\\Desktop\\dotnet\\.net core\\WebApplication1\\WebApplication1\\try Catch.csproj",
+  "projectFilePath": "C:\\Users\\HP ELITEBOOK 845\\Desktop\\task\\dotnetcore\\WebApplication1\\WebApplication1\\try Catch.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP ELITEBOOK 845\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.11\\microsoft.aspnetcore.authentication.jwtbearer.8.0.11.nupkg.sha512",
     "C:\\Users\\HP ELITEBOOK 845\\.nuget\\packages\\microsoft.bcl.memory\\9.0.0\\microsoft.bcl.memory.9.0.0.nupkg.sha512",
