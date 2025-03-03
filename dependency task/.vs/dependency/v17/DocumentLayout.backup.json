@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP ELITEBOOK 845\\Desktop\\daily task\\dependency\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A38C7C-4DF9-4D6D-9CED-73FF1934082F}|dependency\\dependency.csproj|c:\\users\\hp elitebook 845\\desktop\\daily task\\dependency\\dependency\\model\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A38C7C-4DF9-4D6D-9CED-73FF1934082F}|dependency\\dependency.csproj|solutionrelative:dependency\\model\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A38C7C-4DF9-4D6D-9CED-73FF1934082F}|dependency\\dependency.csproj|c:\\users\\hp elitebook 845\\desktop\\daily task\\dependency\\dependency\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A38C7C-4DF9-4D6D-9CED-73FF1934082F}|dependency\\dependency.csproj|solutionrelative:dependency\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A38C7C-4DF9-4D6D-9CED-73FF1934082F}|dependency\\dependency.csproj|c:\\users\\hp elitebook 845\\desktop\\daily task\\dependency\\dependency\\service\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A38C7C-4DF9-4D6D-9CED-73FF1934082F}|dependency\\dependency.csproj|solutionrelative:dependency\\service\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A38C7C-4DF9-4D6D-9CED-73FF1934082F}|dependency\\dependency.csproj|c:\\users\\hp elitebook 845\\desktop\\daily task\\dependency\\dependency\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A38C7C-4DF9-4D6D-9CED-73FF1934082F}|dependency\\dependency.csproj|solutionrelative:dependency\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A38C7C-4DF9-4D6D-9CED-73FF1934082F}|dependency\\dependency.csproj|c:\\users\\hp elitebook 845\\desktop\\daily task\\dependency\\dependency\\dependency.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C5A38C7C-4DF9-4D6D-9CED-73FF1934082F}|dependency\\dependency.csproj|solutionrelative:dependency\\dependency.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A38C7C-4DF9-4D6D-9CED-73FF1934082F}|dependency\\dependency.csproj|c:\\users\\hp elitebook 845\\desktop\\daily task\\dependency\\dependency\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C5A38C7C-4DF9-4D6D-9CED-73FF1934082F}|dependency\\dependency.csproj|solutionrelative:dependency\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A38C7C-4DF9-4D6D-9CED-73FF1934082F}|dependency\\dependency.csproj|c:\\users\\hp elitebook 845\\desktop\\daily task\\dependency\\dependency\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A38C7C-4DF9-4D6D-9CED-73FF1934082F}|dependency\\dependency.csproj|solutionrelative:dependency\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dependency.csproj",
+              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK 845\\Desktop\\daily task\\dependency\\dependency\\dependency.csproj",
+              "RelativeDocumentMoniker": "dependency\\dependency.csproj",
+              "ToolTip": "C:\\Users\\HP ELITEBOOK 845\\Desktop\\daily task\\dependency\\dependency\\dependency.csproj",
+              "RelativeToolTip": "dependency\\dependency.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAMwAkAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-24T08:58:27.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK 845\\Desktop\\daily task\\dependency\\dependency\\Program.cs",
+              "RelativeDocumentMoniker": "dependency\\Program.cs",
+              "ToolTip": "C:\\Users\\HP ELITEBOOK 845\\Desktop\\daily task\\dependency\\dependency\\Program.cs",
+              "RelativeToolTip": "dependency\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAtwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:55:01.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK 845\\Desktop\\daily task\\dependency\\dependency\\Service\\StudentService.cs",
+              "RelativeDocumentMoniker": "dependency\\Service\\StudentService.cs",
+              "ToolTip": "C:\\Users\\HP ELITEBOOK 845\\Desktop\\daily task\\dependency\\dependency\\Service\\StudentService.cs",
+              "RelativeToolTip": "dependency\\Service\\StudentService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAA5wDcAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T09:11:21.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK 845\\Desktop\\daily task\\dependency\\dependency\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "dependency\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\HP ELITEBOOK 845\\Desktop\\daily task\\dependency\\dependency\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "dependency\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAqwAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T09:43:15.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK 845\\Desktop\\daily task\\dependency\\dependency\\Service\\IStudentService.cs",
+              "RelativeDocumentMoniker": "dependency\\Service\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\HP ELITEBOOK 845\\Desktop\\daily task\\dependency\\dependency\\Service\\IStudentService.cs",
+              "RelativeToolTip": "dependency\\Service\\IStudentService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T09:03:26.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Students.cs",
+              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK 845\\Desktop\\daily task\\dependency\\dependency\\Model\\Students.cs",
+              "RelativeDocumentMoniker": "dependency\\Model\\Students.cs",
+              "ToolTip": "C:\\Users\\HP ELITEBOOK 845\\Desktop\\daily task\\dependency\\dependency\\Model\\Students.cs",
+              "RelativeToolTip": "dependency\\Model\\Students.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:55:38.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\HP ELITEBOOK 845\\Desktop\\daily task\\dependency\\dependency\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "dependency\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\HP ELITEBOOK 845\\Desktop\\daily task\\dependency\\dependency\\appsettings.Development.json",
+              "RelativeToolTip": "dependency\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-27T08:43:51.547Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
